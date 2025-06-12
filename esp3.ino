@@ -14,7 +14,7 @@
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
 #define AIO_USERNAME  "gunterxd"
-#define AIO_KEY       "aio_vgwi89aSeVIpbZTdjUfjKvmwgalj"
+#define AIO_KEY       "aio_RCbO76ahvWrMo9X0KfOWvrSNl52t"
 
 // Constrói o cliente MQTT
 WiFiClient    wifiClient;
